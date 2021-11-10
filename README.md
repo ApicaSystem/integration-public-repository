@@ -1,2 +1,2 @@
 # integration-public-repository
-Do not place anything sensitive here. Public repo.
+This repo is used for integration testing. Do not remove it. 
